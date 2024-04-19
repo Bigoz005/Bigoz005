@@ -22,9 +22,9 @@
 
 
 ###
-<div align="mid">
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578)
-</div>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
+
 <br clear="both">
 
 ###
