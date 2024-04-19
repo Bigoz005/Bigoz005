@@ -8,6 +8,11 @@
 
 ###
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
+
+<br clear="both">
+
+
 ###
 
 <div align="right">
@@ -18,11 +23,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
-
-<br clear="both">
 
 ###
