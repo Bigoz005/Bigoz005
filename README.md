@@ -24,5 +24,5 @@
 
 <br clear="both">
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/6qlxEpRRQTWmBPYD88NCCe?si=7aa2b95bab544442)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/6qlxEpRRQTWmBPYD88NCCe?si=7aa2b95bab544442)
 ###
