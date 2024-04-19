@@ -9,7 +9,7 @@
 ###
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
-<img aligh="right" height="100px" src="https://c.tenor.com/uxw_2laevUYAAAAC/tenor.gif" />
+<img aligh="right" height="200px" src="https://c.tenor.com/uxw_2laevUYAAAAC/tenor.gif" />
 ###
 
 <div align="left">
