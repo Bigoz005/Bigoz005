@@ -23,11 +23,15 @@
 </div>
 
 ###
+<div>
+  
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
+  <img align="right" height="150" src="https://c.tenor.com/YjN3ocDZc2YAAAAd/tenor.gif"  />
+</div>
+
+
 
 <br clear="both">
-
-<img align="right" height="150" src="https://c.tenor.com/YjN3ocDZc2YAAAAd/tenor.gif"  />
 
 ###
