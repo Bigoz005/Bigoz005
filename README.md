@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/bvVD7.gif"  />
+
 
 ###
 
@@ -27,5 +27,7 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
 
 <br clear="both">
+
+<img align="right" height="150" src="https://tenor.com/bvVD7.gif"  />
 
 ###
