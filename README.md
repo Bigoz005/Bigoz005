@@ -9,8 +9,6 @@
 
 ###
 
-
-
 ###
 
 <div align="left">
@@ -23,14 +21,8 @@
 </div>
 
 ###
-<div>
-  
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
 
-  <img align="right" height="150" src="https://c.tenor.com/YjN3ocDZc2YAAAAd/tenor.gif"  />
-</div>
-
-
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=11134074578&count=3)
 
 <br clear="both">
 
