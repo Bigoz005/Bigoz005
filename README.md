@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Michał, previously worked as Junior Frontend nad Junior Integration Developer. On my road to be Game Developer</h2>
 
 ###
-
+<img align="right" height="150" src="https://tenor.com/bvVD7.gif"  />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bigoz005&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bigoz005&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -28,6 +28,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://tenor.com/bvVD7.gif"  />
+
 
 ###
