@@ -24,5 +24,5 @@
 
 <br clear="both">
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/6qlxEpRRQTWmBPYD88NCCe?si=7aa2b95bab544442)
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qlxEpRRQTWmBPYD88NCCe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ###
