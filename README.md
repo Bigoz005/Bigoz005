@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Michał, previously worked as Junior Frontend nad Junior Integration Developer. On my road to be Game Developer</h2>
+<h2 align="left">Hi 👋! My name is Michał, previously worked as Junior Frontend nad Junior Integration Developer</h2>
 
 ###
 <div align="left">
